@@ -60,10 +60,7 @@
     <th align="right">请求主体</th>
     <td><code>application/json</code> (<code>LoginRequest</code>)</td>
   </tr>
-  <tr>
-    <th align="right">响应主体</th>
-    <td><code>application/json</code> (<code>LoginResponse</code>)</td>
-  </tr>
+
 </table>
 
 ## 用 OpenID 登录
